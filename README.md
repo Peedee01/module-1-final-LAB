@@ -89,7 +89,17 @@ Don't forget to append the cards to the container!
 document.querySelector(".container").appendChild(card) // this is just an example, you should use your own code
 ```
 
-## Iteration 6: Details button
+## Iteration 6: Oh no!
+Oh no! The manager forgot to tell you, there is a detail missing **for each** worker. We need to add to the array the property `id` of each worker. If they don't have an ID they won't be able to enter the building. 😱
+
+Create and call a function that adds an `id` to each worker. The `id` should be a number starting from 1 and incrementing by 1 **for each** worker. This ID doesn't need to be displayed in the card. Just add a console log to check if the ID is being added correctly.
+
+```javascript
+console.log(workers[0]) 
+// should display {id: 1, name: "Michael Scott", position: "Project Manager", email: ...
+```
+
+## Iteration 7: Details button
 Each card should have a button that takes us to a **new page** with only the information of that worker. 
 
 Do you remember how to link to a new page?
