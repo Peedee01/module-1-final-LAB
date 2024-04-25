@@ -95,4 +95,4 @@ Do you remember how to link to a new page?
 <a href="./new-page.html">Go to new page</a>
 ```
 
-After this amazing and painfull iteration, you are ready to start working with React! 🚀
+After this amazing and painful iteration, you are ready to start working with React! 🚀
