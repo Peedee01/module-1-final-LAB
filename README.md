@@ -1,5 +1,6 @@
 # Module 1 ending exercises
 
+We managed to create a great team!
 The company you work for (CompuglobalHiperMegaNet) is developing a new website. The project manager has asked you to create a page where we display all the workers of the company.
 
 This is the information we have about the workers:
@@ -48,6 +49,7 @@ Create the HTML structure for the page. You should have a container for the card
 Add the css to your page and start adding some styles. The container should be perfectly centered in the middle of the screen.
 
 ## Iteration 3: Add the array of workers in your script
+Just copy the array of workers and paste it in your script. You can create a variable called `workers` and assign the array to it. 
 
 ## Iteration 4: Create the forEach loop
 Now that we have our array ready, we can start creating the cards.
@@ -66,8 +68,8 @@ Here's an example of how a card can look like:
     <h2>Michael Scott</h2>
     <h3>Project Manager</h3>
     <p>
-        <a href="mailto:michael@exampleo.com">
-            mailto:michael@exampleo.com
+        <a href="mailto:michael@example.com">
+            mailto:michael@example.com
         </a>
     </p>
     <button>See details</button>
