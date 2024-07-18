@@ -20,9 +20,9 @@ This is the information we have about the workers:
         "photo": "https://s.yimg.com/ny/api/res/1.2/NSc3nWzMmEVxLXgx2N5LMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/es/levelup_525/47b81f0779adb85592c63ebb7276c11a"
     },
     {
-        "name": "Kilikolo",
+        "name": "Ditto",
         "position": "CTO",
-        "email": "kilikolo@compuglobalhipermeganet.com",
+        "email": "ditto@compuglobalhipermeganet.com",
         "photo": "https://m.media-amazon.com/images/I/61AwGJQu3CL._AC_UF894,1000_QL80_.jpg"
     },
     {
